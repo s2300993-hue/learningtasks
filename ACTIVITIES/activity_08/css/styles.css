@@ -1,0 +1,38 @@
+body{
+    background-color: 306D29;
+    font-size: 30px;
+    color: #437c44;
+}
+
+#wrapper{
+    border: 8px solid #E7E1B1;
+    min-height: 100%;
+}
+
+h1{
+    text-align: center;
+    background-color: #E7E1B1;
+}
+
+.header{
+    background-color: FBF5DD;
+    height: 300px;
+}
+
+.main-navigation {
+    background-color: #E7E1B1;
+    height: 70px;
+    text-align: center;
+    font-size: 20;
+    align-content: center;
+    color: black;
+}
+
+.main-navigation a{
+    color: #508f49;
+}
+
+.main-navigation a:hover{
+    color: #263125;
+}
+
