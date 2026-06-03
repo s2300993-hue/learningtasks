@@ -1,0 +1,44 @@
+body{
+    background-color: 3C3D37;
+    font-size: 30px;
+    color: 181C14;
+}
+
+#wrapper{
+    border: 8px solid #ECDFCC;
+    min-height: 100%;
+}
+
+h1{
+    text-align: center;
+    background-color: #ECDFCC;
+}
+
+.header{
+    background-color: FBF5DD;
+    height: 400px;
+    font-size: 25;
+}
+
+.main-navigation {
+    background-color: ECDFCC;
+    height: 70px;
+    text-align: center;
+    font-size: 20;
+    align-content: center;
+    color: 181C14;
+}
+
+.main-navigation a{
+    color: 181C14;
+}
+
+.main-navigation a:hover{
+    color: #aaada9;
+}
+body{
+background-color: #3C3D37;
+opacity: 1;
+background: radial-gradient(circle, transparent 20%, #3C3D37 20%, #3C3D37 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #3C3D37 20%, #3C3D37 80%, transparent 80%, transparent) 25px 25px, linear-gradient(#FBF5DD 2px, transparent 2px) 0 -1px, linear-gradient(90deg, #FBF5DD 2px, #3C3D37 2px) -1px 0;
+background-size: 50px 50px, 50px 50px, 25px 25px, 25px 25px;
+}
