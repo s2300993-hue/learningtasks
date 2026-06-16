@@ -1,0 +1,30 @@
+.header {
+    height: 80px;
+    border: solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.title{
+    font-size: 100%;
+    font-family: palatino;
+}
+
+body{
+    background-color: F7F1DE;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+button{
+    font-weight: bold;
+    background-color: 9D6638;
+}
+
+a {
+    text-decoration: none;
+    color: F7F1DE;
+}
+
+h2 {
+    text-align: center;
+}
