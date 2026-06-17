@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.wrapper{
+    width: 80%;
+    border: 2px rgb(255, 255, 255) solid;
+    margin: 0 auto;
+    min-height: 100px;
+}
+.header{
+    background-image: url(images/black-white-waves_1010871-3114.jpg);
+    min-height: 100px;
+}
